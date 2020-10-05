@@ -1,0 +1,14 @@
+SMAP
+AddPatient_jsp.java
+JSP
+*S JSP
+*F
++ 0 AddPatient.jsp
+AddPatient.jsp
+*L
+5,9:44
+14:53,2
+15:55
+16:56,2
+17,115:58
+*E
